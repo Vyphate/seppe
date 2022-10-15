@@ -12,7 +12,7 @@ Seppe.Services = setmetatable({}, {
 function Seppe.__initialize__()
 	local self = Seppe
 	
-	self.Project = 'Murdoch'
+	self.Project = 'nil'
 	return self
 end
 
